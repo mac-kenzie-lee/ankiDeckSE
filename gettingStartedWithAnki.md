@@ -76,7 +76,91 @@ If you select the words in the box next to type:
 ![image](https://user-images.githubusercontent.com/106789729/193144856-b5bc7496-9a84-469f-b15a-ef2672c2f4ba.png)
 You will see yet another window open called "Choose Note Type"
 ![image](https://user-images.githubusercontent.com/106789729/193144983-2fce0bae-147d-4584-b672-50fc096a04d9.png)
-In this particular deck, which I will provide the file .apkg for, you can see 
+In this particular deck, which I will provide the file .apkg for, you can see the first four note types: Basic, Basic, Basic, Cloze are defaults from Anki,
+and the One Cards, Two Cards are custom templates that I modified.
+![image](https://user-images.githubusercontent.com/106789729/193145678-1004b53d-d546-4f17-ac48-48e781144963.png)
+I am going to select the "One Card (General) Blue | Custom by mac-kenzie-lee" note type and select choose. 
+![image](https://user-images.githubusercontent.com/106789729/193145824-f64c081f-2cf3-4ead-b2cd-7c5c872c5a86.png)
+
+### Deck 
+I can change the deck I want the card to be in by clicking Deck
+![image](https://user-images.githubusercontent.com/106789729/193145985-489bd047-8c37-4e6d-9215-017e51b97e7b.png)
+Here I will make an Html card, so I will change the deck to be the HTML Subdeck
+![image](https://user-images.githubusercontent.com/106789729/193146115-e0c44540-3589-4e77-b396-c77126ae99f4.png)
+
+### Fields 
+![image](https://user-images.githubusercontent.com/106789729/193146191-396f60dc-0dd7-4da4-82f5-c2c26941cf87.png)
+If I select fields, I will see another window pop up called 'Field for One Card (General) Bue | Custom by mac-kenzie-lee'
+I can add/edit modify these fields and it will change what I see in the add window
+![image](https://user-images.githubusercontent.com/106789729/193146433-b4374c73-b90a-43ce-b49a-b61a14f3006f.png)
+
+### Cards
+![image](https://user-images.githubusercontent.com/106789729/193146515-14ce9492-3dac-410b-ba84-aed7b9eb6b16.png)
+If I select Cards, another window called "Card Types for One Card (General) Blue | Custom by mac-kenzie-lee" will popup. Here we can see a card preview and make edits to the setup of the card, the code, and the styling.
+![image](https://user-images.githubusercontent.com/106789729/193146587-b91940d3-7e56-4bae-a568-2677aa9ddc02.png)
+This card didn't have any text, so I will go back and add some text to the card, and reopen this cards section:
+![image](https://user-images.githubusercontent.com/106789729/193146965-e0ffabdc-7354-4570-8bd8-9dff7ce27611.png)
+Now we can see the text preview on the card
+![image](https://user-images.githubusercontent.com/106789729/193147018-7d9bc770-5520-4510-bf8a-18897c26df3a.png)
+We can select the front or back template
+![image](https://user-images.githubusercontent.com/106789729/193147110-3f533df7-f997-498e-8652-4cdadb641924.png)
+and even see the styling section here:
+![image](https://user-images.githubusercontent.com/106789729/193147146-85f9a64c-31eb-4777-aa57-51f63e672b4c.png)
+
+If you are having issues viewing the font correctly, you can open up the styling -> and change this line of text: "font-family: LG Smart UI Semibold, Verdana, sans-serif;" to a different font family
+![image](https://user-images.githubusercontent.com/106789729/193147294-7a5d5ccb-5b75-4266-a128-2aca3b8a4b0f.png)
+
+### Stylistic buttons
+You can make other changes to your styles by using the easy interface buttons to the right of the cards area
+![image](https://user-images.githubusercontent.com/106789729/193147521-4a77586a-e79c-49c2-afb7-5671bb37a378.png)
+
+### Tags
+You can also add tags to help organize your cards in different ways.
+![image](https://user-images.githubusercontent.com/106789729/193147598-ba90171e-7769-4318-85d4-9a659b26eb2b.png)
+
+### Adding a card. 
+When you are finished, just click "Add" to add the card to your deck.
+![image](https://user-images.githubusercontent.com/106789729/193147681-fa8a2474-2dcd-4d2f-ad50-b03edc7c6912.png)
+
+## How to study!
+It's really easy to study, you can select a subdeck, or just the main deck if you want to review all the cards without picking a topic.
+Just go to the main window with your decks
+![image](https://user-images.githubusercontent.com/106789729/193147820-bac29f02-f0c3-4084-b6f8-0cb42189f84a.png)
+I will minimize the subdecks,
+![image](https://user-images.githubusercontent.com/106789729/193147893-d9653165-fea4-45df-bd4e-9c017c98b923.png)
+Then click the deck name
+![image](https://user-images.githubusercontent.com/106789729/193147966-abe38fdc-2f65-43ca-972e-124edf1b7f01.png)
+Then click study now
+![image](https://user-images.githubusercontent.com/106789729/193148014-7baed1f1-b566-4ba3-b830-722a2ac956e5.png)
+
+You will see the cards go by like so: 
+![image](https://user-images.githubusercontent.com/106789729/193148067-781c0419-0b07-4deb-a773-0c244099c3db.png)
+![image](https://user-images.githubusercontent.com/106789729/193148108-54432010-a369-4514-8d5f-567e3a7c3013.png)
+
+You can click Again, Hard, Good, Easy depending on how you answered or remembered the answer if you did.
+We can see the card we made earlier as well:
+![image](https://user-images.githubusercontent.com/106789729/193148200-bd33881e-a3ed-4b3c-af09-23f1dfa0170a.png)
+You can click hints in the bottom left corner to see hints,
+![image](https://user-images.githubusercontent.com/106789729/193148287-f29971e5-952d-40d3-90f8-95fb339edde0.png)
+and the Category on the right bottom corner is populated by the name of the subdeck (I didn't have to add any tags!)
+
+## Do you want to use Dark Mode?
+Did you know Anki has a dark mode feature? 
+I'll show you how to set it up!
+In the toolbar menu, select Tools->Preferences or (ctrl-p)
+You'll see a checkbox next to the words 'Night Mode'
+![image](https://user-images.githubusercontent.com/106789729/193148780-fd6a7434-02d6-4b5d-953b-723569fa153a.png)
+Click it and select close.
+![image](https://user-images.githubusercontent.com/106789729/193148832-517013ec-4f07-48f9-818f-b45a7b776dc5.png)
+You will see a dialog box that says changes will be made when you restart Anki.
+![image](https://user-images.githubusercontent.com/106789729/193148880-bca92129-b18c-4eab-a8d1-f17ddf4e1b9a.png)
+Select okay, and then close Anki and reopen it.
+You should see the dark mode working!
+![image](https://user-images.githubusercontent.com/106789729/193148971-65c3e439-4821-4eb0-80cf-52d3ebea775f.png)
+![image](https://user-images.githubusercontent.com/106789729/193148987-9c94215e-1aa9-4902-ac62-dc7849599f7c.png)
+
+
+## This was a general overview of what you need to know to get started with Anki, for more information about this deck specifically see the readme!
 
 
 

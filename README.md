@@ -45,12 +45,6 @@ These cards are of Type: "Two Cards....." and they make two cards, one as a gene
 
 
 
-<img src="" alt="Screenshot" width="400px" height="auto">
-![image]()
-
-" alt="Screenshot" width="400px" height="auto">
-
-
 
 ## How to Use: 
 ### 1. Download the .apkg file and open up the anki app.
@@ -67,4 +61,7 @@ Two things I want to cover,
 For the audio cards I am using Microsoft Catherine (Australia), feel free to download the Microsoft AU text to speech voices for AU English if you want to use it, or you can customize the voices on your own in the cards section ([See the cards guide](https://github.com/mac-kenzie-lee/ankiDeckSE/blob/main/gettingStartedWithAnki.md#cards))
 
 ### Fonts
-I am using a system font for these cards: 
+I am using a system font for these cards called LG Smart UI Semibold. If you don't have the font and can't find it, you can change the font name in the card note type styling area by changing this line: font-family: LG Smart UI Semibold, Verdana, sans-serif;
+  Just replace the name of the font "LG Smart UI Semibold" with the name of a font on your system that you like.
+<img src="https://user-images.githubusercontent.com/106789729/193157081-c2dcace8-1b05-43e7-9b16-a525d0577c4d.png" alt="Screenshot" width="400px" height="auto">
+

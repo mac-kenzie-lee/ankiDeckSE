@@ -1,4 +1,28 @@
 # How to Anki from 0 to Pro
+1. [Intro](#intro)
+2. [Setting Up Anki](#setting-up-anki)
+3. [After Downloading Anki](#after-downloading-anki)
+4. [What's What in Anki](#whats-what-in-anki)
+   1. [Decks](#decks)
+   2. [Creating Decks and Subdecks](#how-to-create-decks-and-subdecks)
+   3. [Adding Cards to your Decks](#how-to-add-cards-to-your-decks)
+      - [Type](#type)
+      - [Deck](#deck)
+      - [Fields](#fields)
+      - [Cards](#cards)
+      - [Stylistic Buttons](#stylistic-buttons)
+      - [Tags](#tags)
+      - [Adding a card](#adding-a-card)
+  5. [How to study](#how-to-study)
+  6. [How to use Dark Mode](#do-you-want-to-use-dark-mode)
+  
+
+  
+  
+  
+  
+  
+  
 ## Intro
 I've always really struggled with using Anki and setting up something that looked nice and was easy to add cards to quickly. I started using Anki for language learning in 2020 when I was studying Korean at Sogang University.
 I searched the web at the time for good flash cards, and Anki was highly recommended, but very hard to use and terrible to look at. I wanted to improve it and looked into getting a template, but every time I tried to do add something, I just didn't work out well and my other options were buying anki deck templates, which I didn't want to do. 
